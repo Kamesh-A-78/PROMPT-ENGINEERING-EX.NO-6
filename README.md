@@ -16,6 +16,8 @@ In this experiment, the persona pattern of a programmer is used to develop a Pyt
 The selected application area is predictive maintenance in manufacturing industries. The Python program sends the same industrial automation prompt to different AI tools and collects their responses. The outputs are then analyzed based on clarity, technical accuracy, response quality, and usefulness.
 
 The experiment helps understand how different AI tools respond to the same programming-related task and how AI integration can support industrial automation systems.
+# prompt:
+Write a Python program that compares responses from three different Large Language Models (LLMs): OpenAI ChatGPT, Google Gemini, and xAI Grok.
 # python code:
 ```
 import requests
