@@ -17,7 +17,7 @@ The selected application area is predictive maintenance in manufacturing industr
 
 The experiment helps understand how different AI tools respond to the same programming-related task and how AI integration can support industrial automation systems.
 # prompt:
-Write a Python program that compares responses from three different Large Language Models (LLMs): OpenAI ChatGPT, Google Gemini, and xAI Grok.
+implement Python code that integrates with multiple AI tools to automate the task of interacting with APIs, comparing outputs, and generating actionable insights with Multiple AI Tools.
 # python code:
 ```
 import requests
